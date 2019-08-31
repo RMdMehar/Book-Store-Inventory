@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Book Store Inventory</string>
+    <string name="overview">Overview</string>
+    <string name="price">Price In $</string>
+    <string name="quantity">Quantity</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="supplier">Supplier</string>
+    <string name="supplier_unknown">Unknown</string>
+    <string name="supplier1">Elite Suppliers</string>
+    <string name="supplier2">Platinum Suppliers</string>
+    <string name="supplier3">King Suppliers</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="empty_inventory">Inventory is currently empty</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+    <string name="unknown_author">Unknown Author</string>
+    <string name="delete_dialog_confirmation">Are you sure to delete the book?</string>
+    <string name="book_deletion_success">Book Deleted</string>
+    <string name="book_deletion_failure">Failed to delete book</string>
+    <string name="stock_update_success">Stock updated</string>
+    <string name="stock_update_failure">Failed to update the stock</string>
+    <string name="books_available_text">Books available: </string>
+    <string name="empty_book_disallowed">Empty book will not be added</string>
+    <string name="empty_field">Empty input fields are not accepted</string>
+    <string name="unknown_number">Number Not Known</string>
+</resources>
